@@ -1,4 +1,4 @@
-# 🎓 Calculate Your University Of Greenwich Computer Science Grade Classification (For 2022 Batch) - Uses Algorithm Specified in Official Lecture Notes
+# 🎓 University of Greenwich Computer Science Grade Classifier
 
 Quickly and easily find the **best possible classification** for your university degree — just run this Python script!
 
